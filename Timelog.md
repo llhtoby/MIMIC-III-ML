@@ -99,8 +99,8 @@ Fani Deligianni
 * *2 hours* setup virtual machine and postgre sql environment
 
 ## 24 Oct 2021
-* * 3 hour* tried fixing errors when creating local database from VM, let build script run overnight to build database
-* * 1 hour* prepare powerpoint for meeting
+* *3 hour* tried fixing errors when creating local database from VM, let build script run overnight to build database
+* *1 hour* prepare powerpoint for meeting
 
 
 
@@ -109,14 +109,14 @@ Fani Deligianni
 ## Week 6
 
 ### 25 Oct 2021
-* * 0.5 hour* meeting with supervisor
+* *0.5 hour* meeting with supervisor
 
 ### 26 Oct 2021
-* * 3 hours* tried installing mimic database on windows
+* *3 hours* tried installing mimic database on windows
 
 
 ### 28 Oct 2021
-* * 3 hours* brainstorm machine learning procedures and extraction pipeline
+* *3 hours* brainstorm machine learning procedures and extraction pipeline
 
 ## 31 Oct 2021
 * *1 hour* prepare powerpoint for meeting
