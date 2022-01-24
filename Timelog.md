@@ -185,17 +185,38 @@ Fani Deligianni
 ## 6 Dec 2021
 * *0.5 hour* meeting with supervisor
 
+## 9 Dec 2021
+* *3 hour* researching and writing code for mean imputation
+
+## 10 Dec 2021
+* *4 hour* researching and writing code for mean imputation
+
 ## 11 Dec 2021
 * *1 hours* reorganize directory
 * *3 hours* updating timelog
 
 ## 12 Dec 2021
-* *3 hours* write progress updat report
+* *3 hours* write progress update report
 
 
 ## Week 13
 
+
 ## 13 Dec 2021
+* *0.5 hour* meeting with supervisor
+
+
+## week 14
+
+## 11  Jan 2022
+
+
+## 12 Jan 2022
+* *4 hour* researching and writing Knn-imputation
+* *1 hour* preparing presentation
+
+
+## 13 Jan 2022
 * *0.5 hour* meeting with supervisor
 
 
