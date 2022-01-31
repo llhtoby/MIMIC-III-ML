@@ -219,6 +219,42 @@ Fani Deligianni
 ## 13 Jan 2022
 * *0.5 hour* meeting with supervisor
 
+## 15 jan 2022
+* *2 hour* fix problem with knn encoding 
+
+## 16 jan 2022
+* *2 hour* trial and error and testing knn encoding (ran code for over 10 hours)
+* *1 hour* preparing presentation
+
+## 17 Jan 2022
+* *0.5 hour* meeting with supervisor
+
+
+## 20 Jan 2022
+* *2 hour* Research and understand MICE imputation
+
+## 22 Jan 2022
+* *3 hour* Write code to optimize runtime of knn imputation
+* *3 hour* Implement MICE imputation
+
+## 23 Jan 2022
+* *2 hour* Create pipeline for comparing results
+* *1 hour* Creating graphs and visualisations
+* *1 hour* preparing presentation
+
+
+## 24 Jan 2022
+* *0.5 hour* meeting with supervisor
+
+## 29 Jan 2022
+* *3 hours* study deep learning imputation methods (read papers and review code)
+
+## 30 Jan 2022
+* *3 hours* Implement deep learning imputation
+* *1 hour* preparing presentation
+
+## 31 Jan 2022
+* *0.5 hour* meeting with supervisor
 
 
 
