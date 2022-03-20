@@ -257,10 +257,15 @@ Fani Deligianni
 * *0.5 hour* meeting with supervisor
 
 
+## 24th Feburary March 2022
+* *2 hour* designing content page
 
+## 6 March 2022
+* *2 hour* learning latex syntax and preping reference resources
+* *3 hour* writing design section
 
-
-
+## 8th March 2022
+* *2 hour* section 4.1.1, 4.1.2
 
 
 
