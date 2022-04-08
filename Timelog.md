@@ -404,35 +404,55 @@ Fani Deligianni
 
 ## 21st March 2022
 * *1 hour* Meeting with supervisor
+* *6 hour* Writing dissertation
+
+
+## 22st March 2022
+* *3 hour* Writing dissertation
+
+## 23st March 2022
+* *6 hour* Writing dissertation
+
+## 24st March 2022
+* *5 hour* Writing dissertation
+
+## 25st March 2022
+* *8 hour* Writing dissertation
+
+## 26st March 2022
+* *4 hour* Writing dissertation
 
 ## 27th March 2022
-* *1 hour* preparing presentation
+* *5 hour* preparing presentation
 
 ## week 25
 
-
 ## 28th March 2022
+* *4 hour* Writing dissertation
 * *1 hour* Meeting with supervisor
 
 ## 3rd April 2022
+* *6 hour* Writing dissertation
 * *1 hour* preparing presentation-
 
 ## week 26
 
 
 ## 4th April 2022
+* *12 hour* Writing dissertation
 * *1 hour* Meeting with supervisor
 
+## 5th April 2022
+* *12 hour* Writing dissertation
+
+## 6th April 2022
+* *12 hour* Writing dissertation
 ## 7th April 2022
-
-
-
-
-
+* *12 hour* Recording Video presentation
 
 ## 8th April 2022
 
-* *2 hour* Recording Video presentation
+* *12 hour* Making final changes to the dissertation
 * *1 hour* Setting up submission
 
 

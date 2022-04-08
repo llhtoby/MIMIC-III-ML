@@ -1,46 +1,258 @@
-@inproceedings{Pey17,
-  author    = {Simon {Peyton Jones}},
-  title     = {How to Write a Great Research Paper},
-  booktitle = {2017 Imperial College Computing Student Workshop, {ICCSW} 2017, September
-               26-27, 2017, London, {UK}},
-  pages     = {1:1--1:1},
-  year      = {2017},    
+@misc{PhysioNet_MIMIC-III, title={Mimic-III Clinical Database (version 1,4).PhysioNet}, url={https://doi.org/10.13026/C2XW26}, journal={MIMIC-III Clinical Database v1.4}, author={Johnson, Alistair and Pollard, Tom and Mark, Roger}, year={2016}, month={Sep}} 
+
+@Article{Harutyunyan2019,
+author={Harutyunyan, Hrayr
+and Khachatrian, Hrant
+and Kale, David C.
+and Ver Steeg, Greg
+and Galstyan, Aram},
+title={Multitask learning and benchmarking with clinical time series data},
+journal={Scientific Data},
+year={2019},
+month={Jun},
+day={17},
+volume={6},
+number={1},
+pages={96},
+abstract={Health care is one of the most exciting frontiers in data mining and machine learning. Successful adoption of electronic health records (EHRs) created an explosion in digital clinical data available for analysis, but progress in machine learning for healthcare research has been difficult to measure because of the absence of publicly available benchmark data sets. To address this problem, we propose four clinical prediction benchmarks using data derived from the publicly available Medical Information Mart for Intensive Care (MIMIC-III) database. These tasks cover a range of clinical problems including modeling risk of mortality, forecasting length of stay, detecting physiologic decline, and phenotype classification. We propose strong linear and neural baselines for all four tasks and evaluate the effect of deep supervision, multitask training and data-specific architectural modifications on the performance of neural models.},
+issn={2052-4463},
+doi={10.1038/s41597-019-0103-9},
+url={https://doi.org/10.1038/s41597-019-0103-9}
+}
+
+
+
+ @misc{MIMIC_Extract_Github, title={MIMIC-extract: a data extraction, preprocessing, and representation pipeline for Mimic-III}, url={https://github.com/MLforHealth/MIMIC_Extract}, journal={GitHub}, author={Wang, Shirly and McDermott, Matthew B. A. and Chauhan, Geeticka and Hughes, Michael  C. and Naumann, Tristan and Ghassemi, Marzyeh}} 
+ 
   
+  @article{lall_robinson_2022, title={The MIDAS Touch: Accurate and Scalable Missing-Data Imputation with Deep Learning}, volume={30}, DOI={10.1017/pan.2020.49}, number={2}, journal={Political Analysis}, publisher={Cambridge University Press}, author={Lall, Ranjit and Robinson, Thomas}, year={2022}, pages={179–196}}
+   
+  @article{Evans2016-bp,
+  title     = "Electronic Health Records: Then, Now, and in the Future",
+  author    = "Evans, R S",
+  abstract  = "OBJECTIVES: Describe the state of Electronic Health Records
+               (EHRs) in 1992 and their evolution by 2015 and where EHRs are
+               expected to be in 25 years. Further to discuss the expectations
+               for EHRs in 1992 and explore which of them were realized and
+               what events accelerated or disrupted/derailed how EHRs evolved.
+               METHODS: Literature search based on ``Electronic Health
+               Record'', ``Medical Record'', and ``Medical Chart'' using
+               Medline, Google, Wikipedia Medical, and Cochrane Libraries
+               resulted in an initial review of 2,356 abstracts and other
+               information in papers and books. Additional papers and books
+               were identified through the review of references cited in the
+               initial review. RESULTS: By 1992, hardware had become more
+               affordable, powerful, and compact and the use of personal
+               computers, local area networks, and the Internet provided faster
+               and easier access to medical information. EHRs were initially
+               developed and used at academic medical facilities but since most
+               have been replaced by large vendor EHRs. While EHR use has
+               increased and clinicians are being prepared to practice in an
+               EHR-mediated world, technical issues have been overshadowed by
+               procedural, professional, social, political, and especially
+               ethical issues as well as the need for compliance with standards
+               and information security. There have been enormous advancements
+               that have taken place, but many of the early expectations for
+               EHRs have not been realized and current EHRs still do not meet
+               the needs of today's rapidly changing healthcare environment.
+               CONCLUSION: The current use of EHRs initiated by new technology
+               would have been hard to foresee. Current and new EHR technology
+               will help to provide international standards for interoperable
+               applications that use health, social, economic, behavioral, and
+               environmental data to communicate, interpret, and act
+               intelligently upon complex healthcare information to foster
+               precision medicine and a learning health system.",
+  journal   = "Yearbook of medical informatics",
+  publisher = "Schattauer GmbH",
+  volume    = "Suppl 1",
+  number    = "Suppl 1",
+  pages     = "S48--S61",
+  month     =  may,
+  year      =  2016,
+  keywords  = "*Electronic Health Record; *medical chart; *medical record;
+               Computer Systems/history/trends; Decision Support Systems,
+               Clinical/history; Electronic Health
+               Records/*history/standards/*trends; Forecasting; History, 20th
+               Century; History, 21st Century; Humans"
 }
 
-@book{Wil09,
-  title={Style: the basics of clarity and grace},
-  author={Williams, Joseph M and Bizup, Joseph},
-  year={2009},
-  publisher={Pearson Longman}
+ @misc{healthit.gov_2019, title={What is an electronic health record (EHR)?}, url={https://www.healthit.gov/faq/what-electronic-health-record-ehr}, journal={HealthIT.gov}, year={2019}, month={Sep}} 
+ 
+@article{AyalaSolares2020,
+title = {Deep learning for electronic health records: A comparative review of multiple deep neural architectures},
+journal = {Journal of Biomedical Informatics},
+volume = {101},
+pages = {103337},
+year = {2020},
+issn = {1532-0464},
+doi = {https://doi.org/10.1016/j.jbi.2019.103337},
+url = {https://www.sciencedirect.com/science/article/pii/S1532046419302564},
+author = {Jose Roberto {Ayala Solares} and Francesca Elisa {Diletta Raimondi} and Yajie Zhu and Fatemeh Rahimian and Dexter Canoy and Jenny Tran and Ana Catarina {Pinho Gomes} and Amir H. Payberah and Mariagrazia Zottoli and Milad Nazarzadeh and Nathalie Conrad and Kazem Rahimi and Gholamreza Salimi-Khorshidi},
+keywords = {Deep learning, Representation learning, Neural networks, Electronic health records, CPRD},
+abstract = {Despite the recent developments in deep learning models, their applications in clinical decision-support systems have been very limited. Recent digitalisation of health records, however, has provided a great platform for the assessment of the usability of such techniques in healthcare. As a result, the field is starting to see a growing number of research papers that employ deep learning on electronic health records (EHR) for personalised prediction of risks and health trajectories. While this can be a promising trend, vast paper-to-paper variability (from data sources and models they use to the clinical questions they attempt to answer) have hampered the field’s ability to simply compare and contrast such models for a given application of interest. Thus, in this paper, we aim to provide a comparative review of the key deep learning architectures that have been applied to EHR data. Furthermore, we also aim to: (1) introduce and use one of the world’s largest and most complex linked primary care EHR datasets (i.e., Clinical Practice Research Datalink, or CPRD) as a new asset for training such data-hungry models; (2) provide a guideline for working with EHR data for deep learning; (3) share some of the best practices for assessing the “goodness” of deep-learning models in clinical risk prediction; (4) and propose future research ideas for making deep learning models more suitable for the EHR data. Our results highlight the difficulties of working with highly imbalanced datasets, and show that sequential deep learning architectures such as RNN may be more suitable to deal with the temporal nature of EHR.}
 }
 
-@book{Pin15,
-  title={The sense of style: The thinking person's guide to writing in the 21st century},
-  author={Pinker, Steven},
-  year={2015},
-  publisher={Penguin Books}
+@Article{Wang2022,
+author={Wang, Huimin
+and Tang, Jianxiang
+and Wu, Mengyao
+and Wang, Xiaoyu
+and Zhang, Tao},
+title={Application of machine learning missing data imputation techniques in clinical decision making: taking the discharge assessment of patients with spontaneous supratentorial intracerebral hemorrhage as an example},
+journal={BMC Medical Informatics and Decision Making},
+year={2022},
+month={Jan},
+day={13},
+volume={22},
+number={1},
+pages={13},
+abstract={There are often many missing values in medical data, which directly affect the accuracy of clinical decision making. Discharge assessment is an important part of clinical decision making. Taking the discharge assessment of patients with spontaneous supratentorial intracerebral hemorrhage as an example, this study adopted the missing data processing evaluation criteria more suitable for clinical decision making, aiming at systematically exploring the performance and applicability of single machine learning algorithms and ensemble learning (EL) under different data missing scenarios, as well as whether they had more advantages than traditional methods, so as to provide basis and reference for the selection of suitable missing data processing method in practical clinical decision making.},
+issn={1472-6947},
+doi={10.1186/s12911-022-01752-6},
+url={https://doi.org/10.1186/s12911-022-01752-6}
 }
 
-@book{StrWhi07,
-  title={The Elements of style},
-  author={Strunk, William and Whyte, EB},
-  year={2007},
-  publisher={Penguin}
+@Article{Li2021,
+author={Li, Jiang
+and Yan, Xiaowei S.
+and Chaudhary, Durgesh
+and Avula, Venkatesh
+and Mudiganti, Satish
+and Husby, Hannah
+and Shahjouei, Shima
+and Afshar, Ardavan
+and Stewart, Walter F.
+and Yeasin, Mohammed
+and Zand, Ramin
+and Abedi, Vida},
+title={Imputation of missing values for electronic health record laboratory data},
+journal={npj Digital Medicine},
+year={2021},
+month={Oct},
+day={11},
+volume={4},
+number={1},
+pages={147},
+abstract={Laboratory data from Electronic Health Records (EHR) are often used in prediction models where estimation bias and model performance from missingness can be mitigated using imputation methods. We demonstrate the utility of imputation in two real-world EHR-derived cohorts of ischemic stroke from Geisinger and of heart failure from Sutter Health to: (1) characterize the patterns of missingness in laboratory variables; (2) simulate two missing mechanisms, arbitrary and monotone; (3) compare cross-sectional and multi-level multivariate missing imputation algorithms applied to laboratory data; (4) assess whether incorporation of latent information, derived from comorbidity data, can improve the performance of the algorithms. The latter was based on a case study of hemoglobin A1c under a univariate missing imputation framework. Overall, the pattern of missingness in EHR laboratory variables was not at random and was highly associated with patients' comorbidity data; and the multi-level imputation algorithm showed smaller imputation error than the cross-sectional method.},
+issn={2398-6352},
+doi={10.1038/s41746-021-00518-0},
+url={https://doi.org/10.1038/s41746-021-00518-0}
 }
 
-@book{Von80,
-  title={How to write with style},
-  author={Vonnegut, Kurt},
-  year={1980},
-  publisher={International Paper Company}
+ @inbook{buuren_2021, place={S.l.}, title={Concepts of MCAR, MAR and MNAR}, booktitle={Flexible imputation of missing data, Second edition}, publisher={ROUTLEDGE}, author={Burren, Stef Van}, year={2021}} 
+
+@Article{Nijman2021,
+author={Nijman, Steven Willem Joost
+and Groenhof, T. Katrien J.
+and Hoogland, Jeroen
+and Bots, Michiel L.
+and Brandjes, Menno
+and Jacobs, John J.L.
+and Asselbergs, Folkert W.
+and Moons, Karel G.M.
+and Debray, Thomas P.A.},
+title={Real-time imputation of missing predictor values improved the application of prediction models in daily practice},
+journal={Journal of Clinical Epidemiology},
+year={2021},
+month={Jun},
+day={01},
+volume={134},
+pages={22-34},
+keywords={Missing data; Multiple imputations; Real-time imputation; Prediction; Computerized decision support system; Electronic health records},
+abstract={Objectives In clinical practice, many prediction models cannot be used when predictor values are missing. We, therefore, propose and evaluate methods for real-time imputation. Study Design and Setting We describe (i) mean imputation (where missing values are replaced by the sample mean), (ii) joint modeling imputation (JMI, where we use a multivariate normal approximation to generate patient-specific imputations), and (iii) conditional modeling imputation (CMI, where a multivariable imputation model is derived for each predictor from a population). We compared these methods in a case study evaluating the root mean squared error (RMSE) and coverage of the 95{\%} confidence intervals (i.e., the proportion of confidence intervals that contain the true predictor value) of imputed predictor values. Results --RMSE was lowest when adopting JMI or CMI, although imputation of individual predictors did not always lead to substantial improvements as compared to mean imputation. JMI and CMI appeared particularly useful when the values of multiple predictors of the model were missing. Coverage reached the nominal level (i.e., 95{\%}) for both CMI and JMI. Conclusion Multiple imputations using either CMI or JMI is recommended when dealing with missing predictor values in real-time settings.},
+issn={0895-4356},
+url={https://www.sciencedirect.com/science/article/pii/S0895435621000056}
 }
 
-@incollection{Orw68,
-  title={Politics and the {English} language},
-  author={Orwell, George},
-  booktitle={The collected essays, journalism and letters of George Orwell},
-  pages={127--140},
-  year={1968},
-  publisher={Harcourt, Brace, Javanovich}
+@Article{Gleason1975,
+author={Gleason, Terry C.
+and Staelin, Richard},
+title={A proposal for handling missing data},
+journal={Psychometrika},
+year={1975},
+month={Jun},
+day={01},
+volume={40},
+number={2},
+pages={229-252},
+abstract={A method for dealing with the problem of missing observations in multivariate data is developed and evaluated. The method uses a transformation of the principal components of the data to estimate missing entries. The properties of this method and four alternative methods are investigated by means of a Monte Carlo study of 42 computer-generated data matrices. The methods are compared with respect to their ability to predict correlation matrices as well as missing entries.},
+issn={1860-0980},
+doi={10.1007/BF02291569},
+url={https://doi.org/10.1007/BF02291569}
 }
+
+
+@book{healthcareML,
+author = {Panesar, Arjun},
+year = {2019},
+month = {01},
+pages = {},
+title = {Machine Learning and AI for Healthcare: Big Data for Improved Health Outcomes},
+isbn = {978-1-4842-3798-4},
+doi = {10.1007/978-1-4842-3799-1}
+}
+
+@article{scikit-learn,
+ title={Scikit-learn: Machine Learning in {P}ython},
+ author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+         and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+         and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+         Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+ journal={Journal of Machine Learning Research},
+ volume={12},
+ pages={2825--2830},
+ year={2011}
+}
+
+@inproceedings{sklearn_api,
+  author    = {Lars Buitinck and Gilles Louppe and Mathieu Blondel and
+               Fabian Pedregosa and Andreas Mueller and Olivier Grisel and
+               Vlad Niculae and Peter Prettenhofer and Alexandre Gramfort
+               and Jaques Grobler and Robert Layton and Jake VanderPlas and
+               Arnaud Joly and Brian Holt and Ga{\"{e}}l Varoquaux},
+  title     = {{API} design for machine learning software: experiences from the scikit-learn
+               project},
+  booktitle = {ECML PKDD Workshop: Languages for Data Mining and Machine Learning},
+  year      = {2013},
+  pages = {108--122},
+}
+
+@article {Sharmae100253,
+	author = {Sharma, Videha and Ali, Ibrahim and van der Veer, Sabine and Martin, Glen and Ainsworth, John and Augustine, Titus},
+	title = {Adoption of clinical risk prediction tools is limited by a lack of integration with electronic health records},
+	volume = {28},
+	number = {1},
+	elocation-id = {e100253},
+	year = {2021},
+	doi = {10.1136/bmjhci-2020-100253},
+	publisher = {BMJ Specialist Journals},
+	URL = {https://informatics.bmj.com/content/28/1/e100253},
+	eprint = {https://informatics.bmj.com/content/28/1/e100253.full.pdf},
+	journal = {BMJ Health \& Care Informatics}
+}
+
+@Article{Ozair2015,
+author={Ozair, Fouzia F.
+and Jamshed, Nayer
+and Sharma, Amit
+and Aggarwal, Praveen},
+title={Ethical issues in electronic health records: A general overview},
+journal={Perspectives in clinical research},
+year={2015},
+publisher={Medknow Publications {\&} Media Pvt Ltd},
+volume={6},
+number={2},
+pages={73-76},
+keywords={Confidentiality; electronic health record; paper record; security breaches},
+abstract={Electronic health record (EHR) is increasingly being implemented in many developing countries. It is the need of the hour because it improves the quality of health care and is also cost-effective. Technologies can introduce some hazards hence safety of information in the system is a real challenge. Recent news of security breaches has put a question mark on this system. Despite its increased usefulness, and increasing enthusiasm in its adoption, not much attention is being paid to the ethical issues that might arise. Securing EHR with an encrypted password is a probable option. The purpose of this article is to discuss the various ethical issues arising in the use of the EHRs and their possible solutions.},
+note={25878950[pmid]},
+note={PMC4394583[pmcid]},
+note={PCR-6-73[PII]},
+issn={2229-3485},
+doi={10.4103/2229-3485.153997},
+url={https://pubmed.ncbi.nlm.nih.gov/25878950},
+url={https://doi.org/10.4103/2229-3485.153997},
+language={eng}
+}
+
+ @misc{wilson_2022, title={Miceforest}, url={https://pypi.org/project/miceforest/}, journal={PyPI}, author={Wilson, Samuel}, year={2022}, month={Feb}} 
