@@ -2,7 +2,7 @@
 
 # About
 
-This repo contains code used in the L4 Honours Project. It has been divided into the following folders:
+This repo contains code used in the L4 Honours Project of student 2431180L in University of Glasgow. It has been divided into the following folders:
 * data: contain all resouces files, ethics form, and raw data. Since the raw data files in this project is too large, these file is not uploaded to github. However, these files can be recreated by running the notebooks in this project.
 * Dissertation: contains the latex and figures used for dissertation
 * Meetings: Contains all powerpoint files that is used for weekly meeting with the project supervisor.
